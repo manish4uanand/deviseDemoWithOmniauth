@@ -59,3 +59,4 @@ gem 'pry-rails'
 gem 'devise_zxcvbn'
 
 gem 'omniauth-twitter'
+gem 'omniauth-facebook'
